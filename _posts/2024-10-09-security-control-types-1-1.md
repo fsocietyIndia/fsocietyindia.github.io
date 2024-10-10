@@ -1,6 +1,6 @@
 ---
 title: Security Controls Types - CompTIA Security+ SY0-701 - 1.1
-date: 2024-10-09 11:50 +0200
+date: 2024-10-09 12:52 +0200
 categories: [Security Plus, CompTIA Security+ SY0-701]
 tags: [blog, personal blog, hacks]
 ---
