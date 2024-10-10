@@ -1,7 +1,7 @@
 ---
 title: Security Controls - CompTIA Security+ SY0-701 - 1.1
 date: 2024-10-09 12:50 +0200
-categories: [Blogging, Tutorial]
+categories: [Security Plus, CompTIA Security+ SY0-701]
 tags: [blog, personal blog, hacks]
 ---
 
