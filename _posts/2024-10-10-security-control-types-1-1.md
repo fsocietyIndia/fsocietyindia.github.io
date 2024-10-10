@@ -53,7 +53,7 @@ And if you lose power in your building, you might want to have a generator so th
 
 ### Directive control type
 The last control type we'll look at is a directive control type. This is a relatively weak security control because it is one where you are directing someone to do something more secure rather than less secure. For example, you may require everyone to store sensitive information into a protected and encrypted folder on their system. This requires the user to make a decision about what data may be sensitive and what data may be nonsensitive. And then they are directed to store the sensitive information in the protected folder. As part of our security policies, we may want to add compliance policies and procedures so that everyone understands the proper processes to use for security in your environment. You might also train users on what the proper security policies might be. And another example of a directive control may be a sign that you put on a door that says "authorized personnel only." There might not be a lock on the door. But the sign saying "authorized personnel only" directs people to either enter or not enter that particular door. 
-So to summarize these, our file storage policies will direct people to this technical category.
-A compliance policy fits into a managerial category.
-Someone performing a security policy training course would be a directive control type fitting into the operational category.
-And a sign on a door that says "authorized personnel only" fits into the physical category.
+1. So to summarize these, our file storage policies will direct people to this technical category.
+2. A compliance policy fits into a managerial category.
+3. Someone performing a security policy training course would be a directive control type fitting into the operational category.
+4. And a sign on a door that says "authorized personnel only" fits into the physical category.
