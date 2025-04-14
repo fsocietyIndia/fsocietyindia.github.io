@@ -14,7 +14,7 @@ timezone: Asia/Calcutta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Fsociety # the main title
+title: CliFense # the main title
 
 tagline: Only those who will risk going too far can possibly find out how far one can go. # it will display as the sub-title
 
@@ -38,8 +38,8 @@ social:
   #email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/FsocietyDotIn # change to your twitter homepage
-    - https://github.com/AldrinAJ # change to your github homepage
+    - https://twitter.com/clifense # change to your twitter homepage
+    - https://github.com/clifense # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
